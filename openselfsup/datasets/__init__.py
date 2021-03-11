@@ -4,6 +4,7 @@ from .data_sources import *
 from .pipelines import *
 from .classification import ClassificationDataset
 from .deepcluster import DeepClusterDataset
+from .deepcluster import DeepElorsDataset
 from .extraction import ExtractDataset
 from .npid import NPIDDataset
 from .rotation_pred import RotationPredDataset
